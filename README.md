@@ -1,5 +1,5 @@
 # Heart Touch Animation in FireMonkey Delphi
-This project demonstrates how to create a touch animation on a heart icon using FireMonkey in Delphi, with support from the Skia library. The example was developed and tested in Delphi versions 11.2 and 12.1, and the code is adaptable for other versions and platforms, such as Android and iOS.
+This project demonstrates how to create a touch animation on a heart icon using FireMonkey in Delphi, with support from the Skia library. The example was developed and tested in Delphi versions 11.2 and 12.1.
 
 # Overview
 The animation is created using an SVG object that is dynamically altered to create the illusion of a pulsating heart. This example demonstrates a technique to toggle between two SVG states (empty heart and filled heart) in response to a click event.
